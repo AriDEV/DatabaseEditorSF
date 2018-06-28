@@ -7,7 +7,6 @@ namespace DatabaseEditorSF.Classes.Database {
 			using(var connect = new MySqlConnection(db.connectionString)) {
 				try {
 					connect.Open();
-					connect.Close();
 					return true;
 				} catch(Exception) {
 					return false;

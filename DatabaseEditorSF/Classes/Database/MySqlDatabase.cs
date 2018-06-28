@@ -43,8 +43,6 @@ namespace DatabaseEditorSF.Classes.Database {
 
 					rows = cmd.ExecuteNonQuery();
 				}
-
-				connect.Close();
 			}
 
 			return rows;
@@ -63,9 +61,7 @@ namespace DatabaseEditorSF.Classes.Database {
 
 					var dt = new DataTable();
 					dt.Load(reader);
-
-					connect.Close();
-
+                    
 					if(dt.Rows.Count == 0) { return null; }
 
 					return dt;
