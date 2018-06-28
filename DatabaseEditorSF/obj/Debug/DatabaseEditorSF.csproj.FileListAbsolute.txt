@@ -1,0 +1,12 @@
+C:\Users\administrador\Desktop\Nusky Editor\DatabaseEditorSF\obj\Debug\DatabaseEditorSF.csprojAssemblyReference.cache
+C:\Users\administrador\Desktop\Nusky Editor\DatabaseEditorSF\obj\Debug\DatabaseEditorSF.Views.FormAbout.resources
+C:\Users\administrador\Desktop\Nusky Editor\DatabaseEditorSF\obj\Debug\DatabaseEditorSF.Views.FormMain.resources
+C:\Users\administrador\Desktop\Nusky Editor\DatabaseEditorSF\obj\Debug\DatabaseEditorSF.Views.FormMySQL.resources
+C:\Users\administrador\Desktop\Nusky Editor\DatabaseEditorSF\obj\Debug\DatabaseEditorSF.Views.FormPopup.FormPopupCheckboxList.resources
+C:\Users\administrador\Desktop\Nusky Editor\DatabaseEditorSF\obj\Debug\DatabaseEditorSF.Views.FormPopup.FormPopupEntities.resources
+C:\Users\administrador\Desktop\Nusky Editor\DatabaseEditorSF\obj\Debug\DatabaseEditorSF.Views.FormPopup.FormPopupSelection.resources
+C:\Users\administrador\Desktop\Nusky Editor\DatabaseEditorSF\obj\Debug\DatabaseEditorSF.Views.FormControlPanel.resources
+C:\Users\administrador\Desktop\Nusky Editor\DatabaseEditorSF\obj\Debug\DatabaseEditorSF.Properties.Resources.resources
+C:\Users\administrador\Desktop\Nusky Editor\DatabaseEditorSF\obj\Debug\DatabaseEditorSF.Views.FormSettings.resources
+C:\Users\administrador\Desktop\Nusky Editor\DatabaseEditorSF\obj\Debug\DatabaseEditorSF.csproj.GenerateResource.cache
+C:\Users\administrador\Desktop\Nusky Editor\DatabaseEditorSF\obj\Debug\DatabaseEditorSF.csproj.CoreCompileInputs.cache
